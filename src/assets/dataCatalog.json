@@ -1,0 +1,52 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "author": "Марсель Руссо",
+        "nameComposition": "Охота Амура",
+        "typeSize":"Холст, масло (50х80)",
+        "price":"14 500 руб",
+        "picture":"https://s3-alpha-sig.figma.com/img/fa91/bf9e/3004b7d8a3c0e2de1caa8fd5732848be?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AXIGuxIhKkS~bHAVUDHq5VwckZMa9lGonlnkPbT3PWONupO2PcMHNcDELVNOab~UANfAuEFOV10GoBFjywyWKtN7LuAAs2BMMqIfF3C1pRdX-NFKyfotUWu7WdTc1W896Bjiw9BZOo6MQHbkm-tLJ3eq3y8my0JyUObtXVyyTB~Trsrkh~y8ipbCvrZrSmxFu~j~wTgc-mQqSxVO-IrOEEm3cmRJvmMO8KUQmz~lq887QT9YiUdmZOGLNLPaT4RcFXqdHeqaaJk6sNFxg4lV8cx4sarwWstM2-oaovtMvEObqOY3koKRKz3slQxTWy20grKBhg9-vmJ70g-hRbZJRQ__"
+      },
+      {
+        "id": 2,
+        "author": "Анри Селин",
+        "nameComposition": "Дама с собачкой",
+        "typeSize":"Акрил, бумага (50х80)",
+        "price":"16 500 руб",
+        "picture":"https://s3-alpha-sig.figma.com/img/15e2/7662/749f524a689260200e0563fdf7e7d013?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gEQyDhk7MGMx3dgPYfh4suQtDDbD33nRoOP2K5na6I9pFLwYGpjfnsbW98tC~fck0eHRCXEETmedmpFzsRinUzA2ROYfHIYAyLDj9iePtxKTIJ0reMp-bs-GV4uOnxyh89WE3DZOmG8A1wfnc5qJYheNw9r9qsfS9G0vTs0RGVZipsTTHdjexNBttx44iJlcBLnKB5Aa2q6xKjZUDqMm4fsjkoh7x8UGAcromjmnKo4xhFgCx69ZbtYecoAssF8lCk1NL0KQw5f1paVFKdoxOuJ9~SUM6j3VH7gMdvC0eizyW8l5Ou9NcQDjn~z0nBdLFQ5Ygrx6xTqV4kM3J25XXw__"
+      },
+      {
+        "id": 3,
+        "author": "Франсуа Дюпон",
+        "nameComposition": "Процедура",
+        "typeSize":"Цветная литография (40х60)",
+        "price":"20 000 руб",
+        "picture":"https://s3-alpha-sig.figma.com/img/8259/612e/ab708c86c2084b45ede2e5b47f32f0ae?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LYNR7VEXheO9o-xUNh8Ypu-g6lsba91lUfkmdqTigNVi0~M6ZZy2sjrUZZgKN2PtQli20qkj7UjoJDTI1gV5RKv9Ki2FpuHv7ETtpiLnjI1si6GytT1BMBbDtfxZ9hzZd2kTLUjLmF1AyHULm9JHGSY7L-ZNsFBhIao31mLuoJ0l6zanLxd2o-ssnM6uImrmY4RFX91Tm0uB~TxFYruvn8WdjuijHgONMVD5heH2mC4VeQPjCRYM491m3bDmMkpVEsGQpRFbT3FlchUoEqqN7Afb1R9uuGa~5HpdNtad4esrUuJ9-g17ObIHW2aGSsY64l101lerlNhJxrdzx63rdA__"
+      },
+      {
+        "id": 4,
+        "author": "Луи Детуш",
+        "nameComposition": "Роза",
+        "typeSize":"Холст, масло (50х80)",
+        "price":"14 500 руб",
+        "picture":"https://s3-alpha-sig.figma.com/img/53e8/b467/38c4dea3c32614513f30d586b23e623e?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Wwk8-anRPMS3QAbWsDuHFJHSxPOd5pg6lmFYAXMGiUPE~ayF9l7gHVvbxupVCyHH9Uyb9nGtN5SeZvEeZQwtN~Gf7LuWScAOrFrWuKyzLu2HVLNQRI4fb~6NsVz~Bq~YkRGPofSlAHQoZzduxQOM5vxh5p7t126QIDFVeyaiyrNJtKwIzKFLT0UR4tZDDe7fsOOCRU0ZcB5629dqaAnkMSdD5BcMOwKLJdia9QOpSUVRT-uCw5jzzWqWvPUDKHfne6bYf1oPgrbBq5VgCwwuLopwjHysZGhoKQ4DsVIcx1lutny~0dZHWdmEHuGEFVAMsfB9RPrmgb44MlEMj1IOEQ__"
+      },
+      {
+        "id": 5,
+        "author": "Франсуа Дюпон",
+        "nameComposition": "Птичья трапеза",
+        "typeSize":"Цветная литография (40х60)",
+        "price":"22 500 руб",
+        "picture":"https://s3-alpha-sig.figma.com/img/044c/aca3/2bf109bb1a75d2ec01ef08204231eeaa?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TC7edx1ueML5NKHJfR5ynmD4OuUpcW1Kzf4Mt5tPRyYvf-hNeVaSHIPL7fH744MaQxedJ5EcwRm8i4fqoZiCv3o04mx7NBee-u1HIMd3OGKq58gegtODO0nA-am8rS-t47VWQSI1HAWkxZsOtxPyWvtbPJih3CIJuaO8wq6O2s2lX-PsHUX3MJytMDUq0Umt87uyYS0VdBQUijYfUUZE1qyt4FE6dKnK3tYFJNtNCTi-L7-6E-mOmruIuT6DGTwmXXruX2knlepTcYHe1osXBqnr2r5wEAbKXrEkJbMJe2TUq1D-Hh-LgEsXhvNOb-2j1ZtDyhE-eOjngjf9JlGg5w__"
+      },
+      {
+        "id": 6,
+        "author": "Пьер Моранж",
+        "nameComposition": "Пьер Моранж",
+        "typeSize":"Цветная литография (40х60)",
+        "price":"20 000 руб",
+        "picture":"https://s3-alpha-sig.figma.com/img/f32f/888e/e10b4d96d2acd08463a8d8a2887f353f?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KMluVXgUY4Rcp~OT~f5Zc6EGdbXkx5kh2fWqxUeEPTOQlEyBJMJyhVpAfqkngx~1k-UfeM6UBQtBDEcoop-zPqcG4R3PNW1PKHo~qA0eWZIGBA2AB4vxRWmAt7Zh09wtGIQNbg1DqZIdNE6F5bDUBC3knU82LqSwaSSSvAJeuLavCuE-VtuNP0j29SMC2fYGvlwGcDgPnh4PG1BV4nC8YAdO5-XEaWa5Ro3QHtRR6hWXYI2-PcGsA7xWvfgezRfgjPq-BCOs03WP4pp4S9ChgwGwa~ZAzn5FxVWBF7Prytd--kJLrA00h0tN-MpuU3kX3xsCBJW5-~-bQrzF29KwMw__"
+      }
+    ]
+  } 

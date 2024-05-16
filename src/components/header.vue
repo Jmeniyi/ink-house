@@ -24,6 +24,10 @@ export default defineComponent({
 </script>
 
 <style scoped lang="scss">
+$base-font:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+          "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+
+
 .header {
   width: 1440px;
   height: 100px;
@@ -38,10 +42,10 @@ export default defineComponent({
       width: 45px;
     }
     span {
-      font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+      font-family: base-font;
       color: #598d66;
       font-size: 20px;
+      font-weight: 500;
     }
   }
 }
@@ -63,10 +67,10 @@ export default defineComponent({
         width: 50px;
       }
       span {
-        font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-          "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+        font-family: base-font;
         color: #598d66;
         font-size: 25px;
+        font-weight: 500;
       }
     }
     .nav {
@@ -79,10 +83,11 @@ export default defineComponent({
         outline: none;
         border: 0;
         background-color: inherit;
-        font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-          "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+        font-family: base-font;
         font-size: 25px;
         color: #2c2d35;
+        font-weight: 500;
+        cursor: pointer;
         img {
           height: 25px;
           width: 25px;
