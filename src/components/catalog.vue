@@ -40,8 +40,6 @@ export default defineComponent({
 </script>
 
 <style scoped lang="scss">
-$base-font:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-          "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 
 .catalog {
   margin: auto;
